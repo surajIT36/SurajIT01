@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/surajku23514902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surajku23514902" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suraj-kumar-singh-968551168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suraj-kumar-singh-968551168/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suraj-kumar-singh-968551168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-kumar-singh-968551168/" height="30" width="40" /></a>
 <a href="https://fb.com/ersuraj36/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ersuraj36/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/surajkumarsing10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="surajkumarsing10" height="30" width="40" /></a>
 </p>
